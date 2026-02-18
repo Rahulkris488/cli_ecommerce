@@ -1,0 +1,116 @@
+{
+  "orders": {
+    "1001": {
+      "status": "shipped",
+      "item": "Wireless Headphones",
+      "estimated_delivery": "2 days",
+      "courier": "FedEx",
+      "tracking_number": "FX9821034"
+    },
+    "1002": {
+      "status": "processing",
+      "item": "Laptop Stand",
+      "estimated_delivery": "5 days",
+      "courier": "UPS",
+      "tracking_number": "UP5540021"
+    },
+    "1003": {
+      "status": "delivered",
+      "item": "Mechanical Keyboard",
+      "estimated_delivery": "already delivered",
+      "courier": "DHL",
+      "tracking_number": "DH3302198"
+    },
+    "1004": {
+      "status": "cancelled",
+      "item": "USB Hub",
+      "estimated_delivery": "N/A",
+      "courier": "N/A",
+      "tracking_number": "N/A"
+    },
+    "1005": {
+      "status": "out for delivery",
+      "item": "Webcam HD",
+      "estimated_delivery": "today",
+      "courier": "BlueDart",
+      "tracking_number": "BD1123445"
+    }
+  },
+  "products": {
+    "headphones": {
+      "name": "Wireless Headphones",
+      "available": true,
+      "stock": 12,
+      "price": 2499,
+      "category": "electronics"
+    },
+    "laptop stand": {
+      "name": "Laptop Stand",
+      "available": true,
+      "stock": 5,
+      "price": 899,
+      "category": "accessories"
+    },
+    "keyboard": {
+      "name": "Mechanical Keyboard",
+      "available": false,
+      "stock": 0,
+      "price": 3199,
+      "category": "electronics"
+    },
+    "usb hub": {
+      "name": "USB Hub",
+      "available": true,
+      "stock": 20,
+      "price": 549,
+      "category": "accessories"
+    },
+    "webcam": {
+      "name": "Webcam HD",
+      "available": true,
+      "stock": 7,
+      "price": 1799,
+      "category": "electronics"
+    },
+    "mouse": {
+      "name": "Wireless Mouse",
+      "available": true,
+      "stock": 15,
+      "price": 799,
+      "category": "accessories"
+    },
+    "monitor": {
+      "name": "LED Monitor 24 inch",
+      "available": false,
+      "stock": 0,
+      "price": 12999,
+      "category": "electronics"
+    }
+  },
+  "policies": {
+    "return": {
+      "window_days": 30,
+      "condition": "Items must be unused and in original packaging.",
+      "process": "Initiate return from My Orders > Select Order > Return Item. Refund is processed in 5-7 business days after we receive the product.",
+      "non_returnable": "Perishable goods, digital downloads, and customized items cannot be returned."
+    },
+    "refund": {
+      "timeline": "5-7 business days",
+      "modes": "Refund is credited back to the original payment method.",
+      "partial": "Partial refunds may apply for damaged or missing accessories.",
+      "contact": "Reach support at support@shopease.com for escalations."
+    },
+    "delivery": {
+      "standard": "5-7 business days",
+      "express": "2-3 business days",
+      "same_day": "Available in select metro cities for orders placed before 12 PM.",
+      "free_shipping": "Free standard shipping on orders above Rs. 999."
+    },
+    "payment": {
+      "methods": ["Credit Card", "Debit Card", "Net Banking", "UPI", "Wallets", "Cash on Delivery", "EMI"],
+      "emi": "No-cost EMI available on select products via HDFC, ICICI, Axis Bank cards.",
+      "cod": "Cash on Delivery available for orders up to Rs. 10,000.",
+      "security": "All payments are secured with 256-bit SSL encryption."
+    }
+  }
+}
