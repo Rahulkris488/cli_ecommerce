@@ -1,0 +1,386 @@
+{
+  "products": {
+    "elec_iphone15": {
+      "name": "iPhone 15 Pro",
+      "price": 129900,
+      "discount": 5000,
+      "stock": 15,
+      "category": "Electronics",
+      "rating": 4.8,
+      "available": true
+    },
+    "elec_macbookm3": {
+      "name": "MacBook Air M3",
+      "price": 114900,
+      "discount": 10000,
+      "stock": 8,
+      "category": "Electronics",
+      "rating": 4.9,
+      "available": true
+    },
+    "elec_sonyxm5": {
+      "name": "Sony WH-1000XM5",
+      "price": 26990,
+      "discount": 2000,
+      "stock": 25,
+      "category": "Electronics",
+      "rating": 4.7,
+      "available": true
+    },
+    "elec_s24ultra": {
+      "name": "Samsung S24 Ultra",
+      "price": 124999,
+      "discount": 8000,
+      "stock": 10,
+      "category": "Electronics",
+      "rating": 4.8,
+      "available": true
+    },
+    "elec_ipadair": {
+      "name": "iPad Air M2",
+      "price": 59900,
+      "discount": 3000,
+      "stock": 20,
+      "category": "Electronics",
+      "rating": 4.6,
+      "available": true
+    },
+    "elec_watch9": {
+      "name": "Apple Watch Series 9",
+      "price": 41900,
+      "discount": 1500,
+      "stock": 12,
+      "category": "Electronics",
+      "rating": 4.7,
+      "available": true
+    },
+    "elec_airpods": {
+      "name": "AirPods Pro 2",
+      "price": 24900,
+      "discount": 1000,
+      "stock": 40,
+      "category": "Electronics",
+      "rating": 4.5,
+      "available": true
+    },
+    "elec_kindle": {
+      "name": "Amazon Kindle Paperwhite",
+      "price": 13999,
+      "discount": 0,
+      "stock": 0,
+      "category": "Electronics",
+      "rating": 4.4,
+      "available": false
+    },
+    "elec_ps5": {
+      "name": "PlayStation 5 Slim",
+      "price": 54990,
+      "discount": 500,
+      "stock": 5,
+      "category": "Gaming",
+      "rating": 4.9,
+      "available": true
+    },
+    "elec_xbox": {
+      "name": "Xbox Series X",
+      "price": 49990,
+      "discount": 2000,
+      "stock": 7,
+      "category": "Gaming",
+      "rating": 4.7,
+      "available": true
+    },
+    "fash_nikejordan": {
+      "name": "Nike Air Jordan 1",
+      "price": 14995,
+      "discount": 0,
+      "stock": 5,
+      "category": "Fashion",
+      "rating": 4.8,
+      "available": true
+    },
+    "fash_adidasult": {
+      "name": "Adidas Ultraboost",
+      "price": 17999,
+      "discount": 3000,
+      "stock": 15,
+      "category": "Fashion",
+      "rating": 4.6,
+      "available": true
+    },
+    "fash_levisjeans": {
+      "name": "Levi's 501 Original",
+      "price": 3999,
+      "discount": 500,
+      "stock": 50,
+      "category": "Fashion",
+      "rating": 4.3,
+      "available": true
+    },
+    "fash_zaratop": {
+      "name": "Zara Summer Top",
+      "price": 2290,
+      "discount": 200,
+      "stock": 10,
+      "category": "Fashion",
+      "rating": 4.1,
+      "available": true
+    },
+    "fash_guccibelt": {
+      "name": "Gucci Leather Belt",
+      "price": 35000,
+      "discount": 0,
+      "stock": 2,
+      "category": "Fashion",
+      "rating": 4.9,
+      "available": true
+    },
+    "fash_rayban": {
+      "name": "Ray-Ban Aviator",
+      "price": 8990,
+      "discount": 1000,
+      "stock": 18,
+      "category": "Fashion",
+      "rating": 4.5,
+      "available": true
+    },
+    "fash_puma": {
+      "name": "Puma RS-X",
+      "price": 8999,
+      "discount": 2500,
+      "stock": 22,
+      "category": "Fashion",
+      "rating": 4.4,
+      "available": true
+    },
+    "home_dyson": {
+      "name": "Dyson V15 Vacuum",
+      "price": 59900,
+      "discount": 5000,
+      "stock": 8,
+      "category": "Home",
+      "rating": 4.8,
+      "available": true
+    },
+    "home_philipsfry": {
+      "name": "Philips Air Fryer",
+      "price": 8999,
+      "discount": 1500,
+      "stock": 30,
+      "category": "Home",
+      "rating": 4.6,
+      "available": true
+    },
+    "home_nespresso": {
+      "name": "Nespresso Coffee Machine",
+      "price": 19900,
+      "discount": 2000,
+      "stock": 12,
+      "category": "Home",
+      "rating": 4.7,
+      "available": true
+    },
+    "home_ikeadesk": {
+      "name": "IKEA Gaming Desk",
+      "price": 12990,
+      "discount": 0,
+      "stock": 0,
+      "category": "Home",
+      "rating": 4.2,
+      "available": false
+    },
+    "home_samsungfridge": {
+      "name": "Samsung Smart Fridge",
+      "price": 84990,
+      "discount": 7000,
+      "stock": 4,
+      "category": "Home",
+      "rating": 4.5,
+      "available": true
+    },
+    "sport_yogamat": {
+      "name": "Lululemon Yoga Mat",
+      "price": 4500,
+      "discount": 0,
+      "stock": 40,
+      "category": "Sports",
+      "rating": 4.8,
+      "available": true
+    },
+    "sport_dumbbells": {
+      "name": "Hex Dumbbells (10kg)",
+      "price": 2999,
+      "discount": 500,
+      "stock": 15,
+      "category": "Sports",
+      "rating": 4.3,
+      "available": true
+    },
+    "sport_cycle": {
+      "name": "Firefox Hybrid Cycle",
+      "price": 18999,
+      "discount": 1000,
+      "stock": 3,
+      "category": "Sports",
+      "rating": 4.4,
+      "available": true
+    },
+    "sport_cricketbat": {
+      "name": "Kashmir Willow Bat",
+      "price": 3499,
+      "discount": 400,
+      "stock": 30,
+      "category": "Sports",
+      "rating": 4.1,
+      "available": true
+    },
+    "book_atomic": {
+      "name": "Atomic Habits",
+      "price": 599,
+      "discount": 100,
+      "stock": 100,
+      "category": "Books",
+      "rating": 4.9,
+      "available": true
+    },
+    "book_psych": {
+      "name": "Psychology of Money",
+      "price": 399,
+      "discount": 50,
+      "stock": 80,
+      "category": "Books",
+      "rating": 4.8,
+      "available": true
+    },
+    "book_dune": {
+      "name": "Dune (Frank Herbert)",
+      "price": 699,
+      "discount": 0,
+      "stock": 25,
+      "category": "Books",
+      "rating": 4.7,
+      "available": true
+    },
+    "book_kalam": {
+      "name": "Wings of Fire",
+      "price": 299,
+      "discount": 30,
+      "stock": 0,
+      "category": "Books",
+      "rating": 4.9,
+      "available": false
+    }
+  },
+  "orders": {
+    "1001": {
+      "product": "iPhone 15 Pro",
+      "amount": 124900,
+      "status": "Delivered",
+      "delivery_date": "2024-02-15",
+      "tracking_location": "Delivered to Home"
+    },
+    "1002": {
+      "product": "Sony WH-1000XM5",
+      "amount": 24990,
+      "status": "Shipped",
+      "delivery_date": "2024-02-22",
+      "tracking_location": "In Transit - Bangalore Hub"
+    },
+    "1003": {
+      "product": "MacBook Air M3",
+      "amount": 104900,
+      "status": "Processing",
+      "delivery_date": "Pending",
+      "tracking_location": "Warehouse"
+    },
+    "1004": {
+      "product": "Nike Air Jordan 1",
+      "amount": 14995,
+      "status": "Out for Delivery",
+      "delivery_date": "Today",
+      "tracking_location": "Local Delivery Partner"
+    },
+    "1005": {
+      "product": "Dyson V15 Vacuum",
+      "amount": 54900,
+      "status": "Delivered",
+      "delivery_date": "2024-01-20",
+      "tracking_location": "Delivered"
+    },
+    "1006": {
+      "product": "Atomic Habits",
+      "amount": 499,
+      "status": "Cancelled",
+      "delivery_date": "N/A",
+      "tracking_location": "Cancelled by User"
+    },
+    "1007": {
+      "product": "PlayStation 5",
+      "amount": 54490,
+      "status": "Shipped",
+      "delivery_date": "2024-02-25",
+      "tracking_location": "Arrived at destination city"
+    },
+    "1008": {
+      "product": "Samsung S24 Ultra",
+      "amount": 116999,
+      "status": "Processing",
+      "delivery_date": "Pending",
+      "tracking_location": "Warehouse Packing"
+    },
+    "5678": {
+      "product": "Nike Air Jordan",
+      "amount": 14995,
+      "status": "Out for Delivery",
+      "delivery_date": "Today",
+      "tracking_location": "Near Landmark"
+    }
+  },
+  "policies": {
+    "return": {
+      "window": "7 days",
+      "condition": "Unused with tags",
+      "process": "App > My Orders > Return"
+    },
+    "refund": {
+      "time": "3-5 business days",
+      "method": "Original source",
+      "warranty": "1 Year Brand Warranty"
+    },
+    "exchange": {
+      "rules": "Size mismatch only"
+    }
+  },
+  "payment": {
+    "methods": [
+      "Credit/Debit Card",
+      "UPI",
+      "Net Banking",
+      "Cash on Delivery",
+      "Wallets"
+    ],
+    "emi_available": true,
+    "min_order_emi": 3000,
+    "cod_limit": 50000
+  },
+  "offers": {
+    "coupons": {
+      "SAVE10": {
+        "discount_pct": 10,
+        "max_discount": 1000,
+        "min_order": 500
+      },
+      "WELCOME500": {
+        "discount_flat": 500,
+        "min_order": 2000
+      },
+      "TECH20": {
+        "discount_pct": 20,
+        "max_discount": 5000,
+        "min_order": 10000,
+        "category": "Electronics"
+      }
+    },
+    "bank_offers": "10% Instant Discount on HDFC Credit Cards"
+  }
+}

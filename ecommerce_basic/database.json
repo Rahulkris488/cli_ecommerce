@@ -1,0 +1,39 @@
+{
+    "orders": {
+        "1001": {
+            "status": "Shipped",
+            "delivery_date": "2 Days"
+        },
+        "1002": {
+            "status": "Delivered",
+            "delivery_date": "Delivered on 15th Feb"
+        },
+        "1003": {
+            "status": "Processing",
+            "delivery_date": "Pending Dispatch"
+        }
+    },
+    "products": {
+        "iphone": {
+            "price": 79999,
+            "available": true
+        },
+        "macbook": {
+            "price": 119900,
+            "available": true
+        },
+        "headphones": {
+            "price": 1999,
+            "available": true
+        },
+        "shoes": {
+            "price": 4999,
+            "available": true
+        }
+    },
+    "policies": {
+        "return": "You can return products within 7 days of delivery if unused.",
+        "refund": "Refunds are processed within 5-7 business days to original payment method.",
+        "payment": "We accept Credit/Debit Cards, UPI, and Cash on Delivery (COD)."
+    }
+}
